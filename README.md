@@ -24,7 +24,7 @@ Tekrar 'esc' tuşuna basarak devam edebiliriz.(Oyuna başlamadan oyun ekranına 
 ### Kazandırdığım mekanikler:
 
 - Ana Menü ekledim.
-- 2 tane daha sahne ekleyip bunları level şeklinde formatladım ve bu sahneler arasında asenkron geçiş sağladım. Hedef tamamlandığında ikici sahneye asenkron geçiş özelliğini sağladım.
+- 2 tane daha sahne ekleyip bunları level şeklinde formatladım ve bu sahneler arasında asenkron geçiş sağladım. Hedef tamamlandığında sonraki sahneye geçiş yapılıyor.
 - Durdur Menü'sünden Ana Menü'ye asenkron geçiş sağladım ve ilgili butonları ekledim.
 - Sayaç kısmında ise "PlayerPrefs" fonksiyonunu kullanarak verilerin kaydedilmesini sağladım. Bu sayede oyuna kadlığımız seviyeden devam etme ve topladığımız kutucuk sayılarının sabit kalması özelliğini getidim.
 - Ana Menüdeki "Devam Et" butonunu güncelledim.(Veri yokken "reject" olacak ve eğer oyunda yeni seviyeye geçilecekse oradan tekrar kayıt alacak.)

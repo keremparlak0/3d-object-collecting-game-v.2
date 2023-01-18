@@ -18,7 +18,7 @@ Tekrar 'esc' tuşuna basarak devam edebiliriz.(Oyuna başlamadan oyun ekranına 
 
 ![alt text](https://i.hizliresim.com/dgsim79.png)
 
-## [Oyunu oynamak için tıklayınız...](https://receponur07.itch.io/3d-advanced-object-collecting-game)
+## [Oyunu oynamak için tıklayınız...](https://receponur07.itch.io/3d-advanced-object-collecting-gamee)
 
 >Önceki Projeye Ek Olarak:
 ### Kazandırdığım mekanikler:

@@ -6,6 +6,7 @@ başlatılıyor.
 - İlk seviyede 2 kutucuk toplandığında ikiye, toplam 4 kutucuk olduğunda ise son seviyeye geliyor.
 - Platformumuz sonlu bir yüzeye sahip. Bu yüzden karakterin hareket alanı sınırlı ve eğer platformdan düşecek olursa oyun tekrar başlatılıyor.
 - Oyunu durdurmak veya yeniden başlatmak istersek, 'esc' tuşuna basmamız yeterli. Bu bize içinde 'Devam Et', 'Yeniden Başlat' ve 'Ana Menü' butonları bulunan bir duraklat menüsü açacak ve işlemlerimizi buradan gerçekleştirebiliriz.
+- Kaldığımız seviye ve topladığımız kutucuk sayısı oyun içinde kaydedilecektir, isteğe göre ana menüden 'Devam Et' butonuna tıklayıp oyuna devam edebiliriz. 
 Tekrar 'esc' tuşuna basarak devam edebiliriz.(Oyuna başlamadan oyun ekranına mause'un sol tuşuyla tıklamamız gerekiyor.)
 
 ### Tuşlar:
